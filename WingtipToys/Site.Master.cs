@@ -9,6 +9,7 @@ using System.Web.UI.WebControls;
 using Microsoft.AspNet.Identity;
 using System.Linq;
 using WingtipToys.Models;
+using WingtipToys.Logic;
 
 namespace WingtipToys
 {
@@ -74,6 +75,15 @@ namespace WingtipToys
 
         }
 
+        protected void Page_PreRender(object sender, EventArgs e)
+        {
+            using (ShoppingCartActions usersShoppingCart = new ShoppingCartActions())
+            {
+                string cartStr = string.Format("Cart ({0})", usersShoppingCart.GetCount());
+                cartCount.InnerText = cartStr;
+            }
+        }
+
         public IQueryable<Category> GetCategories()
         {
             var _db = new WingtipToys.Models.ProductContext();
@@ -88,3 +98,5 @@ namespace WingtipToys
     }
 
 }
+
+// Finalización de la compra y pago con PayPal - Ingles p104
