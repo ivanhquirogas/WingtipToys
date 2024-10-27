@@ -15,7 +15,7 @@
       "RelativeMoniker": "D:0:0:{79B4A399-2ED7-41AA-966F-1E38BC877B1C}|WingtipToys.csproj|solutionrelative:default.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{79B4A399-2ED7-41AA-966F-1E38BC877B1C}|WingtipToys.csproj|c:\\programs\\wingtiptoys\\wingtiptoys\\models\\category.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{79B4A399-2ED7-41AA-966F-1E38BC877B1C}|WingtipToys.csproj|C:\\Programs\\WingTipToys\\WingtipToys\\models\\category.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{79B4A399-2ED7-41AA-966F-1E38BC877B1C}|WingtipToys.csproj|solutionrelative:models\\category.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
@@ -103,8 +103,7 @@
               "RelativeToolTip": "Default.aspx",
               "LogicalView": "7651a703-06e5-11d1-8ebd-00a0c90f26ea",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000195|",
-              "WhenOpened": "2024-10-18T22:27:17.577Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-10-18T22:27:17.577Z"
             },
             {
               "$type": "Document",
@@ -141,8 +140,7 @@
               "RelativeToolTip": "Site.Master",
               "LogicalView": "7651a703-06e5-11d1-8ebd-00a0c90f26ea",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000195|",
-              "WhenOpened": "2024-10-18T22:17:21.464Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-10-18T22:17:21.464Z"
             },
             {
               "$type": "Document",
@@ -178,8 +176,7 @@
               "RelativeToolTip": "Models\\Category.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAABIAAAABAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-10-18T22:20:02.245Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-10-18T22:20:02.245Z"
             },
             {
               "$type": "Document",
